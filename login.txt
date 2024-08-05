@@ -1,1 +1,2 @@
-Login file will contain the user credentials
+Login file will contain the user credentials.
+This file is for my login purpose
